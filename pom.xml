@@ -48,14 +48,14 @@
 
 
   <scm>
-    <connection>scm:git:https://github.com/oracle/oci-compute-jenkins-plugin</connection>
-    <developerConnection>scm:git:git@github.com/oracle/oci-compute-jenkins-plugin.git</developerConnection>
-    <url>https://github.com/oracle/oci-compute-jenkins-plugin</url>
+    <connection>scm:git:https://github.com/jenkinsci/oracle-cloud-infrastructure-compute-plugin</connection>
+    <developerConnection>scm:git:git@github.com:jenkinsci/oracle-cloud-infrastructure-compute-plugin.git</developerConnection>
+    <url>https://github.com/jenkinsci/oracle-cloud-infrastructure-compute-plugin</url>
   </scm>
 
   <issueManagement>
-	<system>JIRS</system>
-	<url>https://jira.oraclecorp.com/jira/browse/OPCTOOL</url>
+	<system>JIRA</system>
+	<url>issues.jenkins-ci.org</url>
   </issueManagement>
 
   <repositories>
